@@ -1,0 +1,22 @@
+{
+  "name": "Luxury_and_nails_by_Magela",
+  "short_name": "Luxury_and_n",
+  "description": "Uñas y belleza - Tu espacio de cuidado personal",
+  "start_url": "/luxury-and-nails-by-magela/",
+  "scope": "/luxury-and-nails-by-magela/",
+  "display": "standalone",
+  "background_color": "#ec4899",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/luxury-and-nails-by-magela/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/luxury-and-nails-by-magela/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
